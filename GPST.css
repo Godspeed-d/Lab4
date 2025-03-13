@@ -1,0 +1,34 @@
+   <style>
+        /* Global styles for the document */
+        body {
+            background-color: #FFFFFF;
+            color: #666666;
+        }
+
+        /* Styles for the header element */
+        header {
+            background-color: #00B386;
+            color: #FFFFFF;}
+
+        /* Styles for the nav element */
+        nav {
+            background-color: #70DBDB;}
+
+        /* Styles for the h2 element */
+        h2 {
+            color: #00664D;}
+
+        /* Styles for the dt element */
+        dt {
+            color: #00664D;}
+
+        /* Styles for the class 'barn' */
+        .barn {
+            color: #70DBDB;}
+			#homeImage { background-image: url(Assets/sunsetHorse.png);
+    		   height: 300px;
+		   background-repeat: no-repeat;
+		   background-size: 100% 100%;
+ }
+
+    </style>
